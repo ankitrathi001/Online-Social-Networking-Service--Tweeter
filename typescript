@@ -1,0 +1,86 @@
+Script started on Sun 29 Mar 2015 03:56:26 AM MST
+bash-3.2$ ./P2_ANKIT_RATHI_Final.o 8
+User1: Follow : #haiku
+User3: Follow : #headlines
+User5: Follow : #headlines
+User6: Follow : #headlines
+User7: Follow : #haiku
+User1: Read
+	User1 Pausing for a short duration to read tweets
+User3: Read
+	User3 Pausing for a short duration to read tweets
+User5: Read
+	User5 Pausing for a short duration to read tweets
+User6: Read
+	User6 Pausing for a short duration to read tweets
+User7: Read
+	User7 Pausing for a short duration to read tweets
+User3: Exit
+	User3 is Exiting
+User5: Follow : #haiku
+User7: Follow : #headlines
+User5: Read
+	User5 Pausing for a short duration to read tweets
+User7: Read
+	User7 Pausing for a short duration to read tweets
+User0: Follow : #bostonweather
+User0: Read
+	User0 Pausing for a short duration to read tweets
+User6: Follow : #headlines
+	@Arizona::Cyber attacks top US threat list. 
+User6: Read
+	User6 Pausing for a short duration to read tweets
+User7: Follow : #bostonweather
+User7: Read
+	User7 Pausing for a short duration to read tweets
+User1: Follow : #haiku
+	@happy::A file that big? It might be very useful. But not it is gone. 
+	@lovehaiku::First snow, then silence. This thousand dollar screen dies so beautifully. 
+	@Compulsive::With searching comes loss and the presence of absence: "My Novel" not found. 
+	@Arizona::Chaos reigns within. Reflect, repent, and reboot. Order shall return. 
+	@happy::The website you seek cannot be located but endless others exist. 
+User7: Exit
+	User7 is Exiting
+User0: Exit
+	User0 is Exiting
+User1: Read
+	User1 Pausing for a short duration to read tweets
+User5: Exit
+	User5 is Exiting
+User1: Exit
+	User1 is Exiting
+User2: Follow : #headlines
+	@Arizona::Cyber attacks top US threat list. 
+	@lovehaiku::Apple faces iPhone paten lawsuit. 
+	@yeti::Net neutrality passed by the FCC. 
+	@lovehaiku::Brain controlled drone shown off 
+User6: Follow : #headlines
+	@Arizona::Cyber attacks top US threat list. 
+	@lovehaiku::Apple faces iPhone paten lawsuit. 
+	@yeti::Net neutrality passed by the FCC. 
+	@lovehaiku::Brain controlled drone shown off 
+User2: Read
+	User2 Pausing for a short duration to read tweets
+User6: Read
+	User6 Pausing for a short duration to read tweets
+User2: Exit
+	User2 is Exiting
+User4: Follow : #haiku
+	@happy::A file that big? It might be very useful. But not it is gone. 
+	@lovehaiku::First snow, then silence. This thousand dollar screen dies so beautifully. 
+	@Compulsive::With searching comes loss and the presence of absence: "My Novel" not found. 
+	@Arizona::Chaos reigns within. Reflect, repent, and reboot. Order shall return. 
+	@happy::The website you seek cannot be located but endless others exist. 
+	@Arizona::ABORTED effort: Close all that you have. You ask way too much. 
+	@Compulsive::The Tao that is seen Is not the true Tao, until You bring fresh toner. 
+User4: Read
+	User4 Pausing for a short duration to read tweets
+User6: Exit
+	User6 is Exiting
+User4: Exit
+	User4 is Exiting
+Streamer Thread Exiting
+Tweeter Thread Exiting
+bash-3.2$ exit
+
+Script done on Sun 29 Mar 2015 03:56:31 AM MST

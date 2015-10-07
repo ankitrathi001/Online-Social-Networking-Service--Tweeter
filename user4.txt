@@ -1,0 +1,24 @@
+Handle @lovehaiku
+Start #haiku
+First snow, then silence.
+This thousand dollar screen dies
+so beautifully.
+End #haiku
+Start #headlines
+Apple faces
+iPhone paten lawsuit.
+End #headlines
+Start #headlines
+Brain controlled
+drone shown off
+End #headlines
+Start #headlines
+Lenovo
+victim
+of
+cyber 
+attack.
+End #headlines
+Follow #haiku
+Read
+Exit
